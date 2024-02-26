@@ -24,6 +24,6 @@ jobs:
       run: npm install
 
     - name: Angular UTC
-      run: ng test
+      run: npm run test
 
     # Add additional steps as needed, such as running tests, deploying, etc.
